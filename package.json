@@ -1,0 +1,9 @@
+{
+  "name": "raid-group-bot",
+  "main": "main.js",
+  "author": "Pedro Pinto <pedruupintuu@hotmail.com>",
+  "dependencies": {
+    "dolphin-discord": "^2.2.3",
+    "dotenv": "^8.0.0"
+  }
+}
